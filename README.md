@@ -1,3 +1,5 @@
-# Hello-World
-My intitial Project repository
-Aspiring data scientist and machine learning expert on a quest to cure disease through technology
+list = ["The", "fox", "jumped",
+        "over", "the", "fence", "."]
+n = " ".join(list)
+n = list[0:-2] + "."
+print(n)
